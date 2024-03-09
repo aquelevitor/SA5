@@ -27,7 +27,7 @@ https://github.com/aquelevitor/SA5.git
 2. Importe o projeto para o IntelliJ:
 
 Para importar o projeto você deve ir ao canto superior esquerdo e clicar no ícone de "Sanduíche". Depois, basta clicar
-em "New" e em "Project from Existing Sources...". Por fim, selecione a pasta do projeto (mainbooks).
+em "New" e em "Project from Existing Sources...". Por fim, selecione a pasta do projeto (SA5).
 
 ![image](https://github.com/aquelevitor/SA5/assets/102384518/1a71001b-a54a-4ca3-ba8f-9342b8543882)
 
